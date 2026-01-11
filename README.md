@@ -1,22 +1,22 @@
-🌍 La Communauté des États Sahélo-Sahariens (CEN-SAD)
-📋 Description
+###🌍 La Communauté des États Sahélo-Sahariens (CEN-SAD)
+###📋 Description
 Présentation académique complète sur la Communauté des États Sahélo-Sahariens (CEN-SAD), une organisation intergouvernementale africaine visant à promouvoir l'intégration économique et le développement durable dans la région sahélo-saharienne.
-🎯 Objectif du Projet
+###🎯 Objectif du Projet
 Analyser en profondeur la CEN-SAD, de sa création à ses perspectives futures, en mettant l'accent sur :
 
-Son rôle dans l'intégration régionale africaine
-Les défis économiques, politiques et sécuritaires
-Les opportunités de développement durable
-Les stratégies de relance et de renforcement institutionnel
+. Son rôle dans l'intégration régionale africaine
+. Les défis économiques, politiques et sécuritaires
+. Les opportunités de développement durable
+. Les stratégies de relance et de renforcement institutionnel
 
-📚 Contenu de la Présentation
-🔹 Introduction
+###📚 Contenu de la Présentation
+###🔹 Introduction
 
 Présentation générale de la CEN-SAD
 Contexte géographique et géopolitique
 Mission et objectifs de l'organisation
 
-🔹 Partie I : Présentation de la CEN-SAD
+###🔹 Partie I : Présentation de la CEN-SAD
 
 Historique : Création en 1998 par 6 pays fondateurs
 Membres : Évolution de 6 à 29 États membres
@@ -29,7 +29,7 @@ Facteurs climatiques favorables
 
 
 
-🔹 Partie II : Les Défis de la CEN-SAD
+###🔹 Partie II : Les Défis de la CEN-SAD
 Défis Économiques :
 
 Dépendance aux matières premières
@@ -48,7 +48,7 @@ Défis Sécuritaires :
 Terrorisme et violence
 Crises migratoires
 
-🔹 Partie III : Perspectives et Opportunités
+###🔹 Partie III : Perspectives et Opportunités
 Initiatives de Relance :
 
 Proposition marocaine pour un forum économique
@@ -62,7 +62,7 @@ Développement du secteur touristique
 Croissance démographique et entrepreneuriat
 Agriculture et sécurité alimentaire
 
-👥 Équipe de Réalisation
+###👥 Équipe de Réalisation
 
 Lamrani Maroua
 Maliki Kaoutar
@@ -70,7 +70,7 @@ Mahjoub Fatima
 
 Encadré par : Mr. ALAMI CHENTOUFI
 Programme : Master ID (Intelligence Digitale)
-📊 Points Clés
+###📊 Points Clés
 
 "La CEN-SAD peut devenir un moteur puissant de l'intégration sahélo-saharienne."
 
@@ -90,24 +90,24 @@ Niger
 Soudan
 Tchad
 
-🎓 Contexte Académique
+###🎓 Contexte Académique
 Type : Présentation académique
 Niveau : Master
 Discipline : Intelligence Digitale / Relations Internationales
 Année : 2024-2025
-🔗 Sources et Références
+###🔗 Sources et Références
 
 OIDP Afrique
 Site officiel CEN-SAD
 Wikipedia - CEN-SAD
 Ministère des Affaires Étrangères - Maroc
 
-📄 Fichier
+###📄 Fichier
 
 presentation-censad.pdf : Présentation complète avec visuels et analyses détaillées
 
-🏷️ Mots-clés
+###🏷️ Mots-clés
 CEN-SAD Afrique intégration-régionale développement-durable géopolitique sahel sahara économie-africaine coopération-sud-sud organisations-africaines
-📧 Contact
+###📧 Contact
 Pour toute question ou collaboration, n'hésitez pas à me contacter via GitHub.
 
