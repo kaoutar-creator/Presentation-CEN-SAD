@@ -1,4 +1,4 @@
-###🌍 La Communauté des États Sahélo-Sahariens (CEN-SAD)
+###🌍 La Communauté des États Sahélo-Sahariens (CEN-SAD)###
 ###📋 Description
 Présentation académique complète sur la Communauté des États Sahélo-Sahariens (CEN-SAD), une organisation intergouvernementale africaine visant à promouvoir l'intégration économique et le développement durable dans la région sahélo-saharienne.
 ###🎯 Objectif du Projet
