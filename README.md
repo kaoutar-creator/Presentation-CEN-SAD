@@ -117,6 +117,4 @@ Pour toute question ou collaboration, n'hésitez pas à me contacter via GitHub.
 
 Cette présentation a été réalisée dans un cadre académique et vise à contribuer à une meilleure compréhension des enjeux de l'intégration régionale en Afrique.
 
-**Licence :** Usage académique  
-**Dernière mise à jour :** Janvier 2025
 
